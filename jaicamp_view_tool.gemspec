@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{ Various view specific methods for application i use.}
   spec.description   = %q{ Provides generated HTML data for rails application.}
-  spec.homepage      = " https://devcamp.com"
+  spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = " Set to 'http://mygemserver.com'"
+  # spec.metadata["allowed_push_host"] = " Set to 'http://mygemserver.com'"
 
-  spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = " Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = " Put your gem's CHANGELOG.md URL here."
+  # spec.metadata["homepage_uri"] = spec.homepage
+  # spec.metadata["source_code_uri"] = " Put your gem's public repo URL here."
+  # spec.metadata["changelog_uri"] = " Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
